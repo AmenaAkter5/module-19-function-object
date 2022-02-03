@@ -1,0 +1,6 @@
+Function-Format:
+
+
+function function-name (input1, input2, input3){
+    return output;
+}
